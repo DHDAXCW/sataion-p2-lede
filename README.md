@@ -1,5 +1,5 @@
 # 中文简体 | [English](https://github.com/DHDAXCW/lubancat-lede/blob/main/EngLish.md)
-# LubanCat1 LubanCat1N LubanCat2 LubanCat2N
+# station p2
 # 机场推荐 [ENET--IEPL内网专线接入](https://www.easy2022.com/#/register?code=Ut7iWMrk)
 ## 👉使用本固件前，请严格遵守国家互联网使用相关法律规定,不要违反国家法律规定！👈
 ### 固件分类 在[releases](https://github.com/DHDAXCW/NanoPi-R5S/releases)有备注关键词
@@ -22,7 +22,6 @@
 - x86_64固件下载 https://github.com/DHDAXCW/lede/releases
 - 刷机方法请参考dn2刷机 https://github.com/DHDAXCW/DoorNet-1-2/blob/mere/emmc.md
 - rkbin下载 https://github.com/DHDAXCW/lubancat-lede/raw/master/data/rk356x-MiniLoaderAll.bin
-### - Docker：正式版带docker，有超频，带有docker插件。（对passwall的udp要求很高，不要刷docker版本）
 - 电报群：https://t.me/DHDAXCW
 - X86固件 ：[点击链接下载](https://github.com/DHDAXCW/OpenWRT_x86_x64/releases)
 
